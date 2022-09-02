@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+title-head {
+  font-size: xxx-large;
+  color: blueviolet;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 1rem;
+}
