@@ -146,7 +146,7 @@ const Menu = [
   },
   {
     id: 17,
-    image: "images/Dinner/OnionSoup.jpg",
+    image: "images/DInner/OnionSoup.jpg",
     name: "Onion Soup",
     category: "Dinner",
     price: "12₹",
@@ -155,7 +155,7 @@ const Menu = [
   },
   {
     id: 18,
-    image: "images/Dinner/Mushroom.jpg",
+    image: "images/DInner/Mushroom.jpg",
     name: "Mushroom",
     category: "Dinner",
     price: "12₹",
@@ -164,7 +164,7 @@ const Menu = [
   },
   {
     id: 19,
-    image: "images/Dinner/CripyChicken.jpg",
+    image: "images/DInner/CripyChicken.jpg",
     name: "Crispy Chicken Tender",
     category: "Dinner",
     price: "13₹",
@@ -173,7 +173,7 @@ const Menu = [
   },
   {
     id: 20,
-    image: "images/Dinner/BeefShort.jpg",
+    image: "images/DInner/BeefShort.jpg",
     name: "Beef  Short",
     category: "Dinner",
     price: "27₹",
@@ -182,7 +182,7 @@ const Menu = [
   },
   {
     id: 21,
-    image: "images/Dinner/Hallibut.jpg",
+    image: "images/DInner/Hallibut.jpg",
     name: "Roast Hallibut",
     category: "Dinner",
     price: "25₹",
