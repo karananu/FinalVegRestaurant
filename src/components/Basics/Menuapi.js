@@ -20,7 +20,7 @@ const Menu = [
   },
   {
     id: 3,
-    image: "images/BreakFast/Upma.jpg",
+    image: "images/BreakFast/upma.jpg",
     name: "Upma",
     category: "BreakFast",
     price: "15₹",
